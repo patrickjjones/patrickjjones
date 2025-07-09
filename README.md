@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Jones (He/Him)
 
-## 🎯 AI Automation Professional | Workflow Optimization | Agile AI Transformation
+## 🎯 AI Automation Professional | Scrum Master  | Workflow Optimization | Agile AI Transformation
 
 Welcome to my GitHub.
 
@@ -17,12 +17,12 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 ---
 
 ### 🛠️ Projects in Progress
-- 🦷 AI Receptionist Agent (Dental Industry)
-- 📊 Sprint Planning Assistants for Product Owners
-- 🔄 Workflow bots integrating WhatsApp, CRMs, and cloud apps
+- 🦷 AI Receptionist Agent (multiple industry sectors)
+- 📊 Sprint Planning Assistants for Scrum Masters and Product Owners
+- 🔄 Workflow bots integrating Teams, Telegram, WhatsApp, CRMs, and cloud apps
 - 💼 Use-case driven GitHub repositories for plug-and-play AI automations
 
-> 🔗 My AI Automation and Agent solutions are hosted here on GitHub and regularly featured across my [LinkedIn](https://www.linkedin.com/in/yourname) and other platforms.
+> 🔗 My AI Automation and Agent solutions are hosted here on GitHub and regularly featured across my [LinkedIn](https://www.linkedin.com/in/indieagile) and other platforms.
 
 ---
 
