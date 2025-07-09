@@ -37,7 +37,7 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 ![n8n](https://img.shields.io/badge/n8n-Automation-blueviolet?style=flat&logo=n8n)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Project-blue?style=flat&logo=azuredevops)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-success?style=flat&logo=openai)
-![MindStudio](https://img.shields.io/badge/Mindstudio-Low_Code-Agents-purple?style=flat&logo=MindStudio)
+![MindStudio](https://img.shields.io/badge/Mind Studio-Low_Code-Agents-purple?style=flat&logo=MindStudio)
 ![Dify](https://img.shields.io/badge/Dify_AI-Agent_Framework-orange?style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-Automation-lightgrey?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github)
