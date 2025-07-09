@@ -34,7 +34,7 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 
 ### 🧰 Tech Toolbox
 
-![n8n](https://img.shields.io/badge/n8n-Automation-blueviolet?style=flat&logo=n8n)
+![n8n](https://img.shields.io/badge/n8n-Automation-Low-Code-blueviolet?style=flat&logo=n8n)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Project-blue?style=flat&logo=azuredevops)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-success?style=flat&logo=openai)
 ![MindStudio](https://img.shields.io/badge/MindStudio-Low_Code-purple?style=flat&logo=mindstudio)
