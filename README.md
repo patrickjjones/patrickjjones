@@ -1,43 +1,69 @@
 # 👋 Hi, I'm Patrick Jones (He/Him)
 
-## 💡 AI Automation Professional | No-Code + Low-Code Solutions | Helping Small Businesses Work Smarter
+## 🎯 AI Automation Professional | Workflow Optimization | Agile AI Transformation
 
-Welcome to my GitHub! I'm passionate about making AI automation accessible for everyone—especially small businesses that want to scale smarter, not harder.
+Welcome to my GitHub.
 
-### 🛠️ What I Do
-- 🎯 Design and build AI-powered automations using tools like **n8n**, **OpenAI**, **Power Platform**, and **Zapier**
-- 🧠 Create intelligent assistants for niche industries (dental, retail, wellness, etc.)
-- ⚡ Help solopreneurs and SMEs save time and money by automating everyday workflows
-- 🌐 Integrate apps like WhatsApp, Gmail, Google Sheets, and CRMs into custom AI workflows
+I design and deliver AI-powered automation and agent-based solutions to improve how delivery teams work and how businesses operate. My mission is to **create actionable use cases**, then **develop and direct the implementation** of automation across Agile teams—seeding scalable AI transformation from within.
 
 ---
 
-### 🚀 Projects I'm Working On
-- 🤖 **Receptionist AI** for dental practices (WhatsApp + Google Calendar + FAQ brain)
-- 📦 **Plug-and-play automation templates** for small business websites
-- 🛍️ **AI Sales Bots** for Shopify and online shops
+### 🧠 My Focus Areas
+- 🤖 **AI Agents for Agile Teams**: Supporting sprint planning, retrospectives, and knowledge management
+- 🔁 **Workflow Automation**: Streamlining repetitive or manual business processes across tools and teams
+- 🧩 **Integration with Tools**: Power Platform, Azure DevOps, OpenAI, n8n, Dify, and more
+- 🌱 **Low-Code/No-Code Delivery**: Rapid prototyping and scalable deployment for SMEs and enterprises
 
 ---
 
-### 📚 What I'm Learning
-- Building reusable AI agents with **MindStudio**, **n8n** and **Dify**
-- Mastering AI prompt engineering for business use cases
-- Exploring open-source tools to keep costs low and value high
+### 🛠️ Projects in Progress
+- 🦷 AI Receptionist Agent (Dental Industry)
+- 📊 Sprint Planning Assistants for Product Owners
+- 🔄 Workflow bots integrating WhatsApp, CRMs, and cloud apps
+- 💼 Use-case driven GitHub repositories for plug-and-play AI automations
+
+> 🔗 My AI Automation and Agent solutions are hosted here on GitHub and regularly featured across my [LinkedIn](https://www.linkedin.com/in/yourname) and other platforms.
+
+---
+
+### 📌 Mission Statement
+
+> "To be the seed for AI Transformation—by embedding intelligent automation into delivery team ways of working and real-world business workflows."
+
+---
+
+### 🧰 Tech Toolbox
+
+![n8n](https://img.shields.io/badge/n8n-Automation-blueviolet?style=flat&logo=n8n)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Project-blue?style=flat&logo=azuredevops)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-success?style=flat&logo=openai)
+![Power Platform](https://img.shields.io/badge/Power_Platform-Low_Code-purple?style=flat&logo=microsoftpowerplatform)
+![Dify](https://img.shields.io/badge/Dify_AI-Agent_Framework-orange?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-lightgrey?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github)
 
 ---
 
 ### 📬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/indieagile)
-- 🧠 [Personal Website or Blog](https://yourwebsite.com)
-- 🐦 [Twitter/X](https://twitter.com/yourhandle)
-- 🎥 [YouTube Channel](https://youtube.com/@yourchannel)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 🧠 [My Website or Blog](https://yourwebsite.com)
+- 🧾 [Medium or Notion Knowledge Hub](https://yourhub.com) *(optional)*
 
 ---
 
-### ☁️ Currently Available For:
-- 🛠️ AI workflow setup (especially **n8n**, **Dify**, **MindStudio** and **PikaPods**)
-- 🤝 Collaborations on open-source AI projects
-- 🧩 Brainstorming unique automations for underserved industries
+### ✅ Currently Available For
+
+- AI Automation strategy for Agile delivery teams  
+- Low-code agent implementation for internal processes  
+- Workflow design and prototyping using Open Source tools  
+- Coaching on practical AI transformation use cases  
+
+---
+
+_Thank you for visiting. Feel free to explore the repositories or reach out to collaborate._  
+Let’s deliver smarter with AI. 🚀
+
 
 ---
 
