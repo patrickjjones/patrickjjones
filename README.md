@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Jones (He/Him)
 
-## 🎯 AI Automation Professional | Scrum Master  | Workflow Optimization | Agile AI Transformation
+## 🎯 AI Automation Professional | Scrum Master  | Workflow Optimisation | Agile AI Transformation
 
 Welcome to my GitHub.
 
@@ -34,7 +34,7 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 
 ### 🧰 Tech Toolbox
 
-![n8n](https://img.shields.io/badge/n8n-Automation-AGents-blueviolet?style=flat&logo=n8n)
+![n8n](https://img.shields.io/badge/n8n-Automation-Agents-blueviolet?style=flat&logo=n8n)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Project-blue?style=flat&logo=azuredevops)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-success?style=flat&logo=openai)
 ![MindStudio](https://img.shields.io/badge/MindStudio-Low_Code-Agents-purple?style=flat&logo=MindStudio)
