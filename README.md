@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm passionate about making AI automation accessible for e
 ---
 
 ### 📬 Let's Connect
-- 💼 [LinkedIn][(https://www.linkedin.com/in/indieagile)]
+- 💼 [LinkedIn](https://www.linkedin.com/in/indieagile)
 - 🧠 [Personal Website or Blog](https://yourwebsite.com)
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)
 - 🎥 [YouTube Channel](https://youtube.com/@yourchannel)
