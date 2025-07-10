@@ -48,7 +48,7 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
 - 🧠 [My Website or Blog](https://yourwebsite.com)
-- 🧾 [Medium or Notion Knowledge Hub](https://yourhub.com) *(optional)*
+- 🧾 [Notion Knowledge Hub](https://www.notion.so/Welcome-to-Notion-22cd725fa23780019ec3ddd7f2efd705?source=copy_link)] *(optional)*
 
 ---
 
