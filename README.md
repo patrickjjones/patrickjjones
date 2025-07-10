@@ -47,8 +47,8 @@ I design and deliver AI-powered automation and agent-based solutions to improve 
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 🧠 [My Website or Blog](https://yourwebsite.com)
-- 🧾 [Notion Knowledge Hub](https://www.notion.so/Welcome-to-Notion-22cd725fa23780019ec3ddd7f2efd705?source=copy_link)] *(optional)*
+- 🧠 [My Website or Blog](https://indieagile.com)
+- 🧾 [Notion Knowledge Hub](https://www.notion.so/Welcome-to-Notion-22cd725fa23780019ec3ddd7f2efd705?source=copy_link)
 
 ---
 
