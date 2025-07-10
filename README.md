@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Patrick Jones (He/Him)
+# 👋 Hi, I'm Patrick Jones
 
 ## 🎯 AI Automation Professional | Scrum Master  | Workflow Optimisation | Agile AI Transformation
 
