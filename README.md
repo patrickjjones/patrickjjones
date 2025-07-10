@@ -4,7 +4,7 @@
 
 Welcome to my GitHub.
 
-I design and deliver AI-powered automation and agent-based solutions to improve how delivery teams work and how businesses operate. My mission is to **create actionable use cases**, then **develop and direct the implementation** of automation across Agile teams—seeding scalable AI transformation from within.
+I design and deliver AI-powered automation and agent-based solutions to improve how delivery teams work and how businesses operate. My mission is to **create actionable use cases**, then **develop and direct the implementation** of automation across agile teams—seeding scalable AI transformation from within.
 
 ---
 
